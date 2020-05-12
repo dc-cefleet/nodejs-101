@@ -1,6 +1,6 @@
 # Node.js
 
-Read through all of the exercises and then attempt them in individual scripts.
+First, setup your porject by running `git init` followed by `npm init` and answering the questionsy. Read through all of the exercises and then attempt them in individual scripts.
 
 ## Small
 
