@@ -1,6 +1,6 @@
 # Node.js
 
-First, setup your porject by running `git init` followed by `npm init` and answering the questionsy. Read through all of the exercises and then attempt them in individual scripts.
+First, setup your project by running `npm init` and answering the questions. Make sure you add a `.gitignore` file and include `node_modules` in that file. Commit and push and you're good to get started. Read through all of the exercises and then attempt them in individual scripts.
 
 ## Small
 
